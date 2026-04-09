@@ -1,3 +1,6 @@
+## Tableau Dashboard 
+https://public.tableau.com/views/AdverseEventDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Adverse Event Dashboard
 
 This project presents an interactive **Adverse Event Dashboard** built using Tableau to explore patterns, trends, and insights related to adverse events in cosmetic products.
