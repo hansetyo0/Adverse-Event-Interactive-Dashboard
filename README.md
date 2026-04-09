@@ -38,4 +38,4 @@ The dataset used in this project is **synthetically generated using AI** and is 
 - Tableau
 
 ## Preview
-![Dashboard Preview](Preview.PNG)
+![Dashboard Preview](Preview.png)
